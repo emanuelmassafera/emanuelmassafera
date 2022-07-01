@@ -7,7 +7,7 @@ I'm Emanuel, a Computer Engineer and a Software Developer.
 
 #### I'm currently...
 
-- 💻 Working at KeyMax with Web Development
+- 💻 Working as NodeJS Developer at Imagination Media
 - 📚 Learning more about microservices
 - 🎓 Improving backend knowledge
 
